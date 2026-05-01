@@ -1,1 +1,6 @@
-
+date,country,product,category,channel,units_sold,price
+2024-01-01,Colombia,Smartphone A,Smartphones,Online,120,300
+2024-01-01,Mexico,Laptop B,Laptops,Retail,80,800
+2024-01-02,Chile,Smartwatch C,Wearables,Online,50,150
+2024-01-02,Peru,Smartphone A,Smartphones,Retail,60,300
+2024-01-03,Brazil,Laptop B,Laptops,Online,100,800
